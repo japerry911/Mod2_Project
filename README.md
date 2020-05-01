@@ -1,7 +1,7 @@
 
-# Barterbox - Jack Perry & Joe Gelay
+# Barterbook - Jack Perry & Joe Gelay
 
-Barterbox is our Flatiron School's Mod 2 Project. We came up with the idea to create a website that gives people the ability to connect and barter their services for other's services.
+Barterbook is our Flatiron School's Mod 2 Project. We came up with the idea to create a website that gives people the ability to connect and barter their services for other's services.
 This website is built with JavaScript, Ruby on Rails, HTML, CSS, Bootstrap, and a tiny amount of JQuery. 
 
 ### Required Versions
